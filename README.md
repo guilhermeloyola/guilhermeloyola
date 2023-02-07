@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou Guilherme, programador backend há mais de 10 anos, atualmente trabalho na FCamara, e presto serviços para o BTG
+- 👋 Oi, eu sou Guilherme, programador backend há mais de 10 anos, atualmente trabalho na FCamara prestando serviços para o BTG
 
 <!---
 guilhermeloyola/guilhermeloyola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
